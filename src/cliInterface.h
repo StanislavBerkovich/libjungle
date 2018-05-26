@@ -318,7 +318,9 @@ namespace LibJungle {
          * Stores the loads the parameters from the cli input and stores them in the
          * jungle trainer
          * 
-         * @param _trainer The jungle trainer
+         * @param _
+         *
+         * er The jungle trainer
          */
         void loadParametersToTrainer(JungleTrainer::ptr _trainer);
         

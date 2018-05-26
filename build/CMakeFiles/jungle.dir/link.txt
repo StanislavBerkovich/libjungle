@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/jungle.dir/src/cliInterface.cpp.o  -o jungle src/liblib_jungle.a /usr/local/lib/libboost_system-mt.dylib 

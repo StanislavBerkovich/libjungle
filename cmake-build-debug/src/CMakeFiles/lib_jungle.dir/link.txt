@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc liblib_jungle.a  CMakeFiles/lib_jungle.dir/jungleTrain.cpp.o CMakeFiles/lib_jungle.dir/jungle.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib liblib_jungle.a

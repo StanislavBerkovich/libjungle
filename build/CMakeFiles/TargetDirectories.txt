@@ -1,0 +1,6 @@
+/Users/stas/Univer/libjungle/build/CMakeFiles/rebuild_cache.dir
+/Users/stas/Univer/libjungle/build/CMakeFiles/edit_cache.dir
+/Users/stas/Univer/libjungle/build/CMakeFiles/jungle.dir
+/Users/stas/Univer/libjungle/build/src/CMakeFiles/rebuild_cache.dir
+/Users/stas/Univer/libjungle/build/src/CMakeFiles/edit_cache.dir
+/Users/stas/Univer/libjungle/build/src/CMakeFiles/lib_jungle.dir

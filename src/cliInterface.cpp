@@ -271,9 +271,9 @@ void TrainCLIFunction::loadParametersToTrainer(JungleTrainer::ptr _trainer)
                 break;
                 
             case 'D':
+                std::cout << "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD " << ParameterConverter::getInt(it->second) << std::endl;
                 _trainer->setMaxDepth(ParameterConverter::getInt(it->second));
                 break;
-                
             case 'W':
                 _trainer->setMaxWidth(ParameterConverter::getInt(it->second));
                 break;
